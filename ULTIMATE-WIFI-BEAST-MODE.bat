@@ -248,6 +248,7 @@ echo  - Lowest possible latency
 echo  - Maximum bandwidth
 echo  - Stable connection (no drops)
 echo  - Perfect for gaming AND streaming
+echo  - Made By SouhailFl
 echo.
 echo These settings work on ANY WiFi network you connect to!
 echo.
