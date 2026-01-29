@@ -336,6 +336,7 @@ echo  - CPU usage will be much lower
 echo  - No AI features running in background
 echo  - No telemetry or bloatware
 echo  - Much faster overall performance
+echo  - Made By SouhailFl
 echo.
 echo NOTE: Some disabled services may re-enable after Windows updates.
 echo Just run this script again if that happens.
